@@ -1,0 +1,38 @@
+
+body{
+    width: 100vh;
+    height: 100vh;
+    background-color: rgb(69, 47, 47);
+}
+#inp{
+    position: relative;
+    left:300px;
+    top:67px;
+
+}
+#number{
+    position: relative;
+    left:590px;
+    top:120px;
+    color: black;
+}
+button{
+    font-size: 20px;
+    display: inline-block;
+    width: 57px;
+    height: 36px;
+    border-radius: 44px;
+    color: red;
+    background: rgb(95, 77, 77);
+    bo
+}
+
+input{
+    width: 210px;
+    height: 22px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: darkmagenta;
+    color: grey;
+}
